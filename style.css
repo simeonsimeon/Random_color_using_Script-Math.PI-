@@ -1,0 +1,21 @@
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.bg{
+    margin-left: 40%;
+    margin-top: 6%;
+    height:300px;
+    background: red;
+    width:300px;
+    box-shadow: 0 0 20px -8px;
+    border-radius: 7px;
+    
+}
+.bt{
+    padding: 30px;
+    margin-left: 45.5%;
+    margin-top:30px;
+}
